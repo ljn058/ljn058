@@ -1,16 +1,16 @@
-## Hi there 👋
+<h2 align="center"> CS058 / 沧桑058 (cs058) </h2>
 
-<!--
-**ljn058/ljn058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--   <p align="center"> -->
+<!--   <samp> -->
+<!--     <a href="#">#</a> ∙ -->
+<!--   </samp> -->
+<!--   </p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ljn058&show_icons=true&hide_border=true&theme=radical" width="100%">
+
+
+#### Welcome to my github profile!
