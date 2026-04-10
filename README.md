@@ -68,24 +68,24 @@
 
 <!-- <p align="center">
   <samp>📈 实时贡献热度 & 代码资产 | 底层由 Dify 分析驱动</samp>
-</p>
+</p> -->
 
 <!-- 总览卡片（原有） -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ljn058&theme=tokyonight" width="98%" />
-</p>
+</p> -->
 
 <!-- 语言统计卡片（两张并列，更丰富） -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ljn058&theme=tokyonight" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ljn058&theme=tokyonight" width="49%" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="98%" src="https://streak-stats.demolab.com?user=ljn058&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF" />
 </p> -->
 
-<!-- 贪吃蛇贡献动画（需 GitHub Action 支持，此处仅为展示占位） -->
+<!-- 贪吃蛇贡献动画 -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ljn058/ljn058/output/github-contribution-grid-snake-dark.svg" />
