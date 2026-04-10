@@ -66,7 +66,7 @@
 
 ### 📊 数据统计
 
-<p align="center">
+<!-- <p align="center">
   <samp>📈 实时贡献热度 & 代码资产 | 底层由 Dify 分析驱动</samp>
 </p>
 
@@ -83,7 +83,7 @@
 
 <p align="center">
   <img width="98%" src="https://streak-stats.demolab.com?user=ljn058&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF" />
-</p>
+</p> -->
 
 <!-- 贪吃蛇贡献动画（需 GitHub Action 支持，此处仅为展示占位） -->
 <p align="center">
